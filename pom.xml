@@ -9,5 +9,7 @@
 
   <modules>
 	  <module>reflection</module>
+      <module>cas</module>
+	  <module>designpattern</module>
   </modules>
 </project>

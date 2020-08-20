@@ -1,3 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 /reflection/reflection.iml
 /.idea/
+/designpattern/target/
+/cas/target/
+/reflection/target/
